@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code](https://github.com/julianchoripan/blog-preview-card)
+- Solution URL: [Solution](hhttps://www.frontendmentor.io/solutions/blog-preview-card-Ipx3dWx_qc)
 - Live Site URL: [Live site](https://julianchoripan.github.io/FM-blog-preview-card/)
 
 ## My process
